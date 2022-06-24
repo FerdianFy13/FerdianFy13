@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferdian Firmansyah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FerdianFy13](https://github.com/FerdianFy13)
 
